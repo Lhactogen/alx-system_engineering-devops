@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h owner vincent:staff _hello
+chown -h vincent:staff _hello
